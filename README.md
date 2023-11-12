@@ -1,10 +1,10 @@
-# Taller-Gestion-de-cadenas-README
+# Taller-Grupal
  
  
   
 # Integrantes del equipo de trabajo:
-Juan Leon,
 Andres Perez,
-Alejandro Huerfano
+Julian Mesa,
+Luis Nausa
 # Editor de Código usado para la integración final
 Eclipse
