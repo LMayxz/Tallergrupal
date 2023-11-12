@@ -23,10 +23,10 @@ public class Runner {
         String menu = "<<<<<<<MENU PRINCIPAL>>>>>>>\n"
         	+ "\n 1. Numero Romano"
                 + "\n 2. Factores Primos"
-                + "\n 3. Borrar Espacios"
+                + "\n 3. Nombre Propio"
                 + "\n 4. Números Ególatras"
                 + "\n 5. Número Mágico"
-                + "\n 6. Fechas"
+                + "\n 6. Números Amigos"
                 + "\n Para salir presione enter sin ingresar ningun valor.";
         char option = 0;
         do {
@@ -209,7 +209,7 @@ public class Runner {
         return result.toString();
     }
 
-	// 3. Espacios	
+	// 3. Nombre Propio	
 
  	public static void spaceLines() {
 		
@@ -299,7 +299,7 @@ public class Runner {
         return new StringBuilder(new String(digits)).reverse().toString();
     }
 
-	// 6. Fecha
+	// 6. Números Amigos
     
 	private static void fecha(){
 		  Scanner scanner = new Scanner(System.in);
