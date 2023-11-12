@@ -21,7 +21,7 @@ public class Runner {
 	
 	private static void mainMenu() {
         String menu = "<<<<<<<MENU PRINCIPAL>>>>>>>\n"
-        		+ "\n 1. Numero Romano"
+        	+ "\n 1. Numero Romano"
                 + "\n 2. Factores Primos"
                 + "\n 3. Borrar Espacios"
                 + "\n 4. Números Ególatras"
